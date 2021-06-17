@@ -1,0 +1,188 @@
+.navbar-brand{
+  font-size: 1.5rem;
+  font-weight: bold;
+
+}
+.back-img{
+   background-image: url("back-img.gif");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: scroll;
+  max-width: 100%;
+  height: 750px;
+  
+}
+
+  @media(min-width: 481px) and (max-width: 1024px){.back-img{
+    background-image: url("back-img.gif") ;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    max-width: 100%;
+    height: 600px;
+    
+
+}
+}
+@media (max-width: 480px) { .back-img{
+  background-image:  url("back-img.gif") ;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+  max-width: 100%;
+  height: 600px;
+
+}
+}
+/* WHY JION US */
+#jion-us{
+  text-align: center;
+  margin: 7% 15%;
+  line-height: 2;
+  font-size: 1.5rem;
+
+}
+.jion-icon{
+  margin: 7% 15%;
+  line-height: 1;
+  color: #1E2A78;
+}
+.jion-heading{
+  color: #FFD615;
+  margin-bottom: 2%;
+  font-size: 2.5rem;
+}
+/* MISSION CARDS */
+.card-section{
+  margin: 5% 7%;
+}
+.main-heading{
+  color: #53CDE2;
+  text-align: center;
+  margin: 2%;
+  font-size: 2.5rem;
+}
+.card-heading{
+  color: #1E2A78;
+
+}
+
+.card-text{
+  line-height: 2;
+
+}
+/* PROMISE */
+.work{
+  background-image: url("workimage.png");
+ background-position: center center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-attachment: scroll;
+ max-width: 100%;
+ height: 750px;
+
+}@media(min-width: 481px) and (max-width: 1024px){.work{
+
+    background-image: url("workimage.png");
+ background-position: center center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-attachment: scroll;
+ max-width: 100%;
+ height: 750px;
+    
+    
+    
+    
+}}
+@media (max-width: 480px) { .work{
+background-image: url("workimage.png");
+ background-position: center center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-attachment: scroll;
+ max-width: 100%;
+ height: 750px;    
+}}
+
+
+.Trust{
+    text-align: left;
+    color: #161616;
+    font-size: 1.5rem;
+    line-height: 2;
+    font-weight: bold;
+    margin:3%;
+    padding-top: 2%;
+
+  }
+
+.promise-heading{
+  text-align: center;
+  color: #8f8f8f;
+  font-size: 2.5rem;
+  font-weight: bold;
+  line-height: 1;
+  margin: 2%;
+}
+.promise-subhead{
+  text-align: center;
+  color: #1E2A78;
+  font-weight: bolder;
+  line-height: 2;
+}
+/* /DONATE/ */
+.quote{
+  margin: 7%;
+  text-align: center;
+}
+
+.quote-h{
+  font-style: italic;
+  font-weight: BOLD;
+  color: #4A1C40;
+  line-height: 2;
+}
+
+
+
+
+/* CONTACT FORM */
+.footer-img{
+  background-image: url("address.png");
+ background-position: center center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-attachment: scroll;
+ max-width: 100%;
+ height: 700px;
+}
+
+.last-section{
+  text-align: center;
+  font-size: 1rem;
+  padding-top: 4%;
+}
+.footmain-head{
+  color: #2541B2;
+  font-size: 1.2rem;
+  line-height: 1;
+  margin: 2%;
+}
+.foot-h{
+  color: #1E2A78;
+  line-height: 1;
+}
+.icon{
+  color: #5E8B7E;
+  margin: 1%;
+
+}
+.donate-btn{
+  margin-left: 0;
+  padding-right: 2%;
+}
+.card{
+    margin-bottom:3%;
+} 
